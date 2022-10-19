@@ -29,7 +29,7 @@ describe('Calculator', () => {
 });
 
 // TASK 4
-it('Should Capitalize', () => expect(capitalize('richard')).toBe('RICHARD'));
+it('Should Capitalize', () => expect(capitalize('faranosh')).toBe('FARANOSH'));
 
 // TASK 1
 it('works', () => expect(stringLength('Hello')).toBe(5));
